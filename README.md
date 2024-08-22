@@ -18,7 +18,7 @@ O Connecter Life utiliza WebSocket para fornecer comunicação em tempo real ent
   - Node.js e npm instalados
 
 ** Passos para executar
-   - Clone o repositório do WebSocket: git clone https://github.com/seu-usuario/websocket-deploy.git
+   - Clone o repositório do WebSocket: git clone https://github.com/caioolima/websocket-deploy
    - cd connecter-life-websocket
 
 ## Instale as dependências:
